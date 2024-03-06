@@ -6,8 +6,8 @@ export default function Home() {
 			</section>
 			<section className='m-4 grid grid-cols-1 lg:grid-cols-2 gap-10'>
 				<img className='w-1/3 lg:w-auto rounded-lg' src='Paul-2.jpg' />
-				<div className='w-full pr-4 lg:pr-10'>
-					<h2 className='text-bold text-2xl lg:text-3xl mb-5 text-justify'>About Me</h2>
+				<div className='w-full pr-4 lg:pr-10 text-xl lg:text-[12pt]'>
+					<h2 className='text-bold text-4xl lg:text-3xl mb-5 text-justify'>About Me</h2>
 					<p>
 						Born in the United Kingdom in 1963 and started programming at the age of 14. I started my professional career at the
 						age of 20 (1983), working for Chemical Bank in Cardiff. In 1986 I moved to London and worked in retail (Harrods),
