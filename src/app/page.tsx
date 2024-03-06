@@ -6,7 +6,7 @@ export default function Home() {
 			</section>
 			<section className='m-4 grid grid-cols-1 lg:grid-cols-2 gap-10'>
 				<img className='w-1/3 lg:w-auto rounded-lg' src='Paul-2.jpg' />
-				<div className='w-full pr-4 lg:pr-10 text-xl lg:text-[12pt]'>
+				<div className='w-full pr-4 lg:pr-10 text-2xl lg:text-[12pt]'>
 					<h2 className='text-bold text-4xl lg:text-3xl mb-5 text-justify'>About Me</h2>
 					<p>
 						Born in the United Kingdom in 1963 and started programming at the age of 14. I started my professional career at the
@@ -36,7 +36,7 @@ export default function Home() {
 					</p>
 					<div className='flex justify-center lg:justify-between'>
 						<p></p>
-						<button className='mt-10 py-3 px-8 bg-slate-600 text-white text-lg lg:text-xl rounded-2xl'>
+						<button className='mt-16 lg:mt-10 py-3 px-8 bg-slate-600 text-white text-3xl lg:text-xl rounded-2xl'>
 							<a href='Paul_Stinchcombe-2024.pdf' target='_blank'>
 								Checkout my full resume
 							</a>
