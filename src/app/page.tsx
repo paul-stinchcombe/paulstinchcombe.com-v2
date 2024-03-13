@@ -10,7 +10,7 @@ export default function Home() {
 						<img className='w-2/3 lg:w-auto rounded-lg shadow-xl' src='Paul-2.jpg' />
 					</div>
 					<div className='w-full pr-4 lg:pr-10 text-2xl lg:text-[14pt] text-justify'>
-						<h2 className='text-bold text-4xl lg:text-3xl mb-5 text-justify'>About Me</h2>
+						<h2 className='text-bold text-2xl lg:text-3xl mb-5 text-justify'>About Me</h2>
 						<p>
 							Born in the United Kingdom in 1963 and started programming at the age of 14. I started my professional career at
 							the age of 20 (1983), working for Chemical Bank in Cardiff. In 1986 I moved to London and worked in retail
